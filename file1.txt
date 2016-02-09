@@ -1,0 +1,3 @@
+Testing text file in Git. 
+My, how fun this is!
+Parade will be occurring soon.
